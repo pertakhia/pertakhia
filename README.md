@@ -45,6 +45,7 @@
 [![Express.js](https://img.shields.io/badge/express.js-black?style=for-the-badge&logo=express)](https://github.com/pertakhia)
 [![MongoDB](https://img.shields.io/badge/mongodb-black?style=for-the-badge&logo=mongodb)](https://github.com/pertakhia)
 [![Mongoose](https://img.shields.io/badge/mongoose-black?style=for-the-badge&logo=mongoose)](https://github.com/pertakhia)
+[![MySQL](https://img.shields.io/badge/mysql-black?style=for-the-badge&logo=mysql)](https://github.com/pertakhia)
 [![OpenLayers](https://img.shields.io/badge/openlayers-black?style=for-the-badge&logo=openlayers)](https://github.com/pertakhia)
 [![Leaflet](https://img.shields.io/badge/leaflet-black?style=for-the-badge&logo=leaflet)](https://github.com/pertakhia)
 
@@ -53,6 +54,7 @@
 [![Git](https://img.shields.io/badge/git-black?style=for-the-badge&logo=git)](https://github.com/pertakhia)
 [![GitHub](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github)](https://github.com/pertakhia)
 [![VS Code](https://img.shields.io/badge/vscode-black?style=for-the-badge&logo=visual-studio-code&logoColor=blue)](https://github.com/pertakhia)
+[![android studio](https://img.shields.io/badge/android%20studio-black?style=for-the-badge&logo=android-studio)](https://github.com/pertakhia)
 [![docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://github.com/pertakhia)
 
 ### mobile development
