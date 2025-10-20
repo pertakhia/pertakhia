@@ -35,7 +35,7 @@
 [![Webpack](https://img.shields.io/badge/webpack-black?style=for-the-badge&logo=webpack)](https://github.com/pertakhia)
 [![npm](https://img.shields.io/badge/npm-black?style=for-the-badge&logo=npm)](https://github.com/pertakhia)
 [![angular](https://img.shields.io/badge/angular-black?style=for-the-badge&logo=angular)](https://github.com/pertakhia)
-[![Vue.js](https://img.shields.io/badge/angular-black?style=for-the-badge&logo=vue)](https://github.com/pertakhia)
+[![vue](https://img.shields.io/badge/vue-black?style=for-the-badge&logo=vue)](https://github.com/pertakhia)
 [![jQuery](https://img.shields.io/badge/jquery-black?style=for-the-badge&logo=jquery)](https://github.com/pertakhia)
 [![chart.js](https://img.shields.io/badge/chart.js-black?style=for-the-badge&logo=chart.js)](https://github.com/pertakhia)
 [![Node.js](https://img.shields.io/badge/node.js-black?style=for-the-badge&logo=node.js)](https://github.com/pertakhia)
